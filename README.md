@@ -1,9 +1,9 @@
 # TinyFlight
-The Github page for the TinyFlight simulator for the thumby color!
+The Github page for the TinyFlight simulator for the Thumby Color!
 
 # ----------------------------------------------------------------
 
-# Everything we need to know (Gameplan) for the TinyFlight game so development can start ASAP
+# Everything we need to know (Gameplan) for TinyFlight so development can start ASAP
 
 # ----------------------------------------------------------------
 
@@ -35,7 +35,7 @@ The Github page for the TinyFlight simulator for the thumby color!
         [Missions for mp]
     
     COOP
-        [Mission for mp]
+        [Missions for mp]
     *Back Disconnect mp*
     
 **Help**
