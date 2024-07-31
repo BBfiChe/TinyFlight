@@ -1,11 +1,11 @@
 # TinyFlight
 The Github page for the TinyFlight simulator for the thumby color!
 
-# -----------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Everything we need to know (Gameplan) for the TinyFlight game so development can start ASAP
 
-# -----------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # MAIN MENU
 
@@ -45,4 +45,4 @@ The Github page for the TinyFlight simulator for the thumby color!
 **Quit**
     *Are you sure? Y/n*
 
-# -----------------------------------------------------------------
+# ----------------------------------------------------------------
