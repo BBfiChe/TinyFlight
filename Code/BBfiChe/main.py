@@ -32,7 +32,7 @@ alpha = 0  # Initial alpha value for the second image
 fade_in = False  # Flag to control fading in
 
 
-font = FontResource('system/assets/outrunner_outline.bmp')
+font = FontResource(r'/system/assets/outrunner_outline.bmp')
 
 
 # Arr loc
