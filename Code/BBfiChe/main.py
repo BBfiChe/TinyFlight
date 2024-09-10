@@ -164,11 +164,11 @@ while running:
     if engine.tick():
         print(engine.get_running_fps())
         
-        if engine_io.UP.is_just_pressed:
+        if engine_io.UP.is_just_pressed and arrow_y != 60:
             arrow_y -= 16 
             rumble(12, 0.3)
             print("Rectangle moved Up")
-        if engine_io.DOWN.is_just_pressed:
+        if engine_io.DOWN.is_just_pressed and  arrow_y != 108:
             arrow_y += 16  
             rumble(12, 0.3)
             print("rectangle moved Down")
