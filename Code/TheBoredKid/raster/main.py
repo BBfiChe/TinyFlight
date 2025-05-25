@@ -9,8 +9,8 @@ from engine_math import Vector3
 #import random
 #import time
 
-sys.path.append("/Games/ThumbyRaster")
-os.chdir("/Games/ThumbyRaster")
+sys.path.append("/Games/raster")
+os.chdir("/Games/raster")
 
 from ThumbyRasterMath import *
 import ThumbyRaster
